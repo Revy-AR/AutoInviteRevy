@@ -1,0 +1,6 @@
+## Interface: 20505
+## Title: AutoInviteRevy
+## Notes: Kulcsszavas automatikus meghívás
+## Author: Revy
+## SavedVariables: AutoInviteRevyDB
+AutoInviteRevy.lua
